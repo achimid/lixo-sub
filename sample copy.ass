@@ -1,0 +1,58 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Song,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Caption,Arial,53,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-2,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle-2,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-3,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-4,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Caption-3,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-4,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-5,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-6,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-7,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.79,0:00:05.42,Subtitle,,0,0,0,,The winged knights launch\Nrepeated assaults on Castle Thor,
+Dialogue: 0,0:00:05.42,0:00:06.92,Subtitle,,0,0,0,,while Hyura and the other demonkin
+Dialogue: 0,0:00:06.92,0:00:09.67,Subtitle,,0,0,0,,fight arduously to fend them off\Nin a never-ending cycle.
+Dialogue: 0,0:00:10.08,0:00:11.29,Subtitle,,0,0,0,,Meanwhile,
+Dialogue: 0,0:00:11.29,0:00:14.13,Subtitle,,0,0,0,,Vermilio and company make their way\Nthrough a barren desert.
+Dialogue: 0,0:00:14.13,0:00:16.50,Subtitle,,0,0,0,,One night, Helck offers his sword to Vermilio
+Dialogue: 0,0:00:16.50,0:00:19.58,Subtitle,,0,0,0,,revealing its true nature as\Nthe weapon known as "Hero Slayer."
+Dialogue: 0,0:00:20.75,0:00:24.96,Subtitle,,0,0,0,,Listen, I'm going to tell you about my past,\Nthe power of heroes,
+Dialogue: 0,0:00:24.96,0:00:29.21,Subtitle,,0,0,0,,and everything else that happened\Nin the human realm.
+Dialogue: 0,0:00:29.42,0:00:33.75,Subtitle,,0,0,0,,Then once you've heard the story,\NI'd like you to consider doing me this favor.
+Dialogue: 0,0:00:53.50,0:00:56.04,Song,,0,0,0,,Ah, displaying strength like it was totally natural
+Dialogue: 0,0:00:56.04,0:00:58.21,Song,,0,0,0,,Feelings of inferiority growing deeper
+Dialogue: 0,0:00:58.21,0:01:00.17,Song,,0,0,0,,From the moment of birth
+Dialogue: 0,0:01:00.17,0:01:02.33,Song,,0,0,0,,Let them know that it's a done deal
+Dialogue: 0,0:01:02.33,0:01:04.13,Song,,0,0,0,,The neighbor to utopia
+Dialogue: 0,0:01:04.13,0:01:06.33,Song,,0,0,0,,Despair is saying "hello," ya see
+Dialogue: 0,0:01:06.33,0:01:08.38,Song,,0,0,0,,The fact that nobody notices
+Dialogue: 0,0:01:08.38,0:01:10.54,Song,,0,0,0,,Is it for better or worse?
+Dialogue: 0,0:01:10.54,0:01:13.75,Song,,0,0,0,,No matter how many times I wake up
+Dialogue: 0,0:01:13.75,0:01:16.88,Song,,0,0,0,,It's like I'm in a nightmare
+Dialogue: 0,0:01:16.88,0:01:20.25,Song,,0,0,0,,If suffering is all there is
+Dialogue: 0,0:01:20.58,0:01:22.38,Song,,0,0,0,,Then God could you please
+Dialogue: 0,0:01:22.38,0:01:26.29,Song,,0,0,0,,Consider remaking me from scratch?
+Dialogue: 0,0:01:26.29,0:01:28.42,Song,,0,0,0,,Ah, for many thousands of years we have
+Dialogue: 0,0:01:28.42,0:01:31.00,Song,,0,0,0,,Been holding out hope for the future
+Dialogue: 0,0:01:31.00,0:01:32.88,Song,,0,0,0,,The end is bound to come no matter what
+Dialogue: 0,0:14:58.38,0:15:01.46,Caption-4,,0,0,0,,{\pos(140.8,489.6)}{\an7}Helck (Age 22)
+Dialogue: 0,0:15:12.83,0:15:15.79,Caption-5,,0,0,0,,{\pos(128,417.6)}{\an7}Daughter of Nobility
+Dialogue: 0,0:15:12.83,0:15:15.79,Caption-3,,0,0,0,,{\pos(128,468)}{\an7}Shalamy
+Dialogue: 0,0:22:46.00,0:22:50.79,Caption-6,,0,0,0,,{\pos(217.6,57.6)}{\an7}Next Episode
+Dialogue: 0,0:22:46.00,0:22:50.79,Caption-7,,0,0,0,,{\pos(857.6,547.2)}{\an7}The Mercenaries
+

@@ -1,0 +1,493 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Song,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Caption,Arial,53,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-2,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle-2,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-3,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-4,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Caption-3,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-4,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-5,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-6,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-7,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.79,0:00:05.42,Subtitle,,0,0,0,,The winged knights launch\Nrepeated assaults on Castle Thor,
+Dialogue: 0,0:00:05.42,0:00:06.92,Subtitle,,0,0,0,,while Hyura and the other demonkin
+Dialogue: 0,0:00:06.92,0:00:09.67,Subtitle,,0,0,0,,fight arduously to fend them off\Nin a never-ending cycle.
+Dialogue: 0,0:00:10.08,0:00:11.29,Subtitle,,0,0,0,,Meanwhile,
+Dialogue: 0,0:00:11.29,0:00:14.13,Subtitle,,0,0,0,,Vermilio and company make their way\Nthrough a barren desert.
+Dialogue: 0,0:00:14.13,0:00:16.50,Subtitle,,0,0,0,,One night, Helck offers his sword to Vermilio
+Dialogue: 0,0:00:16.50,0:00:19.58,Subtitle,,0,0,0,,revealing its true nature as\Nthe weapon known as "Hero Slayer."
+Dialogue: 0,0:00:20.75,0:00:24.96,Subtitle,,0,0,0,,Listen, I'm going to tell you about my past,\Nthe power of heroes,
+Dialogue: 0,0:00:24.96,0:00:29.21,Subtitle,,0,0,0,,and everything else that happened\Nin the human realm.
+Dialogue: 0,0:00:29.42,0:00:33.75,Subtitle,,0,0,0,,Then once you've heard the story,\NI'd like you to consider doing me this favor.
+Dialogue: 0,0:00:53.50,0:00:56.04,Song,,0,0,0,,Ah, displaying strength like it was totally natural
+Dialogue: 0,0:00:56.04,0:00:58.21,Song,,0,0,0,,Feelings of inferiority growing deeper
+Dialogue: 0,0:00:58.21,0:01:00.17,Song,,0,0,0,,From the moment of birth
+Dialogue: 0,0:01:00.17,0:01:02.33,Song,,0,0,0,,Let them know that it's a done deal
+Dialogue: 0,0:01:02.33,0:01:04.13,Song,,0,0,0,,The neighbor to utopia
+Dialogue: 0,0:01:04.13,0:01:06.33,Song,,0,0,0,,Despair is saying "hello," ya see
+Dialogue: 0,0:01:06.33,0:01:08.38,Song,,0,0,0,,The fact that nobody notices
+Dialogue: 0,0:01:08.38,0:01:10.54,Song,,0,0,0,,Is it for better or worse?
+Dialogue: 0,0:01:10.54,0:01:13.75,Song,,0,0,0,,No matter how many times I wake up
+Dialogue: 0,0:01:13.75,0:01:16.88,Song,,0,0,0,,It's like I'm in a nightmare
+Dialogue: 0,0:01:16.88,0:01:20.25,Song,,0,0,0,,If suffering is all there is
+Dialogue: 0,0:01:20.58,0:01:22.38,Song,,0,0,0,,Then God could you please
+Dialogue: 0,0:01:22.38,0:01:26.29,Song,,0,0,0,,Consider remaking me from scratch?
+Dialogue: 0,0:01:26.29,0:01:28.42,Song,,0,0,0,,Ah, for many thousands of years we have
+Dialogue: 0,0:01:28.42,0:01:31.00,Song,,0,0,0,,Been holding out hope for the future
+Dialogue: 0,0:01:31.00,0:01:32.88,Song,,0,0,0,,The end is bound to come no matter what
+Dialogue: 0,0:01:32.88,0:01:35.17,Song,,0,0,0,,And we try to resist it
+Dialogue: 0,0:01:35.17,0:01:36.83,Song,,0,0,0,,How many prayers is this now?
+Dialogue: 0,0:01:36.83,0:01:39.17,Song,,0,0,0,,Body and soul completely transformed
+Dialogue: 0,0:01:39.17,0:01:43.58,Song,,0,0,0,,Just wanting to believe in something even if it's fake
+Dialogue: 0,0:01:43.71,0:01:47.13,Song,,0,0,0,,Huh? Am I alive right now?
+Dialogue: 0,0:01:47.13,0:01:49.88,Song,,0,0,0,,I don't even know anymore
+Dialogue: 0,0:01:49.88,0:01:51.88,Song,,0,0,0,,Help me, I need to be saved
+Dialogue: 0,0:02:10.58,0:02:12.29,Subtitle,,0,0,0,,Here. Today's earnings.
+Dialogue: 0,0:02:12.54,0:02:14.50,Subtitle,,0,0,0,,What? Just some bread?
+Dialogue: 0,0:02:14.50,0:02:16.58,Subtitle,,0,0,0,,But I worked so hard...
+Dialogue: 0,0:02:16.88,0:02:18.71,Subtitle,,0,0,0,,Times are tough for everybody, kid!
+Dialogue: 0,0:02:18.71,0:02:20.08,Subtitle,,0,0,0,,Please, you gotta help me out!
+Dialogue: 0,0:02:20.08,0:02:21.13,Subtitle,,0,0,0,,Put a sock in it!
+Dialogue: 0,0:02:21.13,0:02:23.46,Subtitle,,0,0,0,,Don't bother coming back if you're just gonna whine!
+Dialogue: 0,0:02:23.46,0:02:24.92,Subtitle,,0,0,0,,I'm sorry...
+Dialogue: 0,0:02:28.08,0:02:29.96,Subtitle,,0,0,0,,No! Please stop it!
+Dialogue: 0,0:02:29.96,0:02:31.54,Subtitle,,0,0,0,,That hurts!
+Dialogue: 0,0:02:34.25,0:02:35.50,Subtitle,,0,0,0,,Get a grip!
+Dialogue: 0,0:02:35.50,0:02:38.13,Subtitle,,0,0,0,,You better use that thing to block me\Nunless you wanna die!
+Dialogue: 0,0:02:39.54,0:02:40.50,Subtitle,,0,0,0,,Ouch!
+Dialogue: 0,0:02:40.50,0:02:41.71,Subtitle,,0,0,0,,Come on!
+Dialogue: 0,0:02:41.71,0:02:44.21,Subtitle,,0,0,0,,Take this! And this!
+Dialogue: 0,0:02:45.50,0:02:46.71,Subtitle,,0,0,0,,Please stop it!
+Dialogue: 0,0:02:46.71,0:02:47.67,Subtitle,,0,0,0,,Big Bro!
+Dialogue: 0,0:02:48.58,0:02:49.88,Subtitle,,0,0,0,,Look who's here.
+Dialogue: 0,0:02:49.88,0:02:53.04,Subtitle,,0,0,0,,What? You gonna defy our orders now, punk?
+Dialogue: 0,0:02:53.63,0:02:55.08,Subtitle,,0,0,0,,There's no chance of that happening.
+Dialogue: 0,0:02:55.08,0:02:57.38,Subtitle,,0,0,0,,Yeah, nobody would dare talk back to us!
+Dialogue: 0,0:02:57.38,0:02:59.00,Subtitle,,0,0,0,,That's what I thought.
+Dialogue: 0,0:02:59.00,0:03:01.13,Subtitle,,0,0,0,,Get on the bad side of nobility like us,
+Dialogue: 0,0:03:01.13,0:03:02.71,Subtitle,,0,0,0,,and we'll make sure
+Dialogue: 0,0:03:02.71,0:03:05.75,Subtitle,,0,0,0,,you and all the other pieces of human trash\Naround here get beaten to a bloody pulp.
+Dialogue: 0,0:03:06.17,0:03:07.54,Subtitle,,0,0,0,,I won't defy you.
+Dialogue: 0,0:03:08.50,0:03:11.83,Subtitle,,0,0,0,,But if you want to hit someone,\Nthen please hit me.
+Dialogue: 0,0:03:11.83,0:03:13.50,Subtitle,,0,0,0,,Oh, yeah?
+Dialogue: 0,0:03:13.50,0:03:15.08,Subtitle,,0,0,0,,Then don't mind if I do.
+Dialogue: 0,0:03:16.17,0:03:17.38,Subtitle,,0,0,0,,Big Bro!
+Dialogue: 0,0:03:19.58,0:03:20.67,Subtitle,,0,0,0,,Weakling!
+Dialogue: 0,0:03:21.17,0:03:22.33,Subtitle,,0,0,0,,Have a taste of this!
+Dialogue: 0,0:03:22.92,0:03:24.17,Subtitle,,0,0,0,,Big Bro...
+Dialogue: 0,0:03:24.71,0:03:27.29,Subtitle,,0,0,0,,My younger brother and I\Ngrew up as orphans.
+Dialogue: 0,0:03:29.92,0:03:33.83,Subtitle,,0,0,0,,When I was just six years old,\Na monster suddenly appeared in our village,
+Dialogue: 0,0:03:33.83,0:03:36.38,Subtitle,,0,0,0,,and took the lives of our mother and father.
+Dialogue: 0,0:03:37.13,0:03:41.42,Subtitle,,0,0,0,,The village was ravaged.\NThere was no hope of rebuilding it.
+Dialogue: 0,0:03:44.54,0:03:47.17,Subtitle,,0,0,0,,Cless, we're still alive.
+Dialogue: 0,0:03:47.17,0:03:48.38,Subtitle,,0,0,0,,And no matter what happens,
+Dialogue: 0,0:03:48.38,0:03:50.88,Subtitle,,0,0,0,,we're going to keep on\Nliving for Mom and Dad's sake.
+Dialogue: 0,0:03:51.33,0:03:53.71,Subtitle,,0,0,0,,Daddy... Mommy...!
+Dialogue: 0,0:03:53.71,0:03:55.08,Subtitle,,0,0,0,,It's all right.
+Dialogue: 0,0:03:55.29,0:03:57.17,Subtitle,,0,0,0,,I'm here for you, okay?
+Dialogue: 0,0:03:57.17,0:03:59.79,Subtitle,,0,0,0,,I'm going to keep you safe!
+Dialogue: 0,0:04:01.75,0:04:03.71,Subtitle,,0,0,0,,We headed for the royal capital.
+Dialogue: 0,0:04:03.96,0:04:05.50,Subtitle,,0,0,0,,Because we figured
+Dialogue: 0,0:04:05.50,0:04:09.08,Subtitle,,0,0,0,,if any place would have a job\Nthat even kids could do, it would be there.
+Dialogue: 0,0:04:11.71,0:04:12.71,Subtitle,,0,0,0,,Take this, loser!
+Dialogue: 0,0:04:12.71,0:04:13.75,Subtitle,,0,0,0,,But it turned out
+Dialogue: 0,0:04:13.75,0:04:16.75,Subtitle,,0,0,0,,the royal capital was vastly different\Nfrom the promised land we imagined.
+Dialogue: 0,0:04:17.04,0:04:18.92,Subtitle,,0,0,0,,Economic disparity\Nwas sharply on the rise,
+Dialogue: 0,0:04:18.92,0:04:23.21,Subtitle,,0,0,0,,and those who were poor got treated worse\Nthan livestock by the wealthy and affluent.
+Dialogue: 0,0:04:23.88,0:04:26.88,Subtitle,,0,0,0,,But in spite of all that, the two of us\Ndecided that's where we would live.
+Dialogue: 0,0:04:26.88,0:04:30.04,Subtitle,,0,0,0,,Our home was on the outskirts\Nof the capital, in the slums.
+Dialogue: 0,0:04:30.46,0:04:32.00,Subtitle,,0,0,0,,It was a dismal and unsanitary place,
+Dialogue: 0,0:04:32.00,0:04:34.96,Subtitle,,0,0,0,,with hardly a scrap of food\Nto be found anywhere.
+Dialogue: 0,0:04:35.29,0:04:38.00,Subtitle,,0,0,0,,But compared to living with the\Ndanger of being attacked by monsters,
+Dialogue: 0,0:04:38.00,0:04:39.75,Subtitle,,0,0,0,,it seemed like the far better option.
+Dialogue: 0,0:04:39.75,0:04:40.71,Subtitle,,0,0,0,,Hiyah!
+Dialogue: 0,0:04:42.75,0:04:44.83,Subtitle,,0,0,0,,Damn, he's a tough little turd.
+Dialogue: 0,0:04:44.83,0:04:46.92,Subtitle,,0,0,0,,My wooden sword actually snapped in two.
+Dialogue: 0,0:04:46.92,0:04:48.25,Subtitle,,0,0,0,,Let's go somewhere else.
+Dialogue: 0,0:04:48.25,0:04:50.21,Subtitle,,0,0,0,,I don't want their stink\Nto get on my clothes.
+Dialogue: 0,0:04:50.21,0:04:50.83,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:04:50.96,0:04:52.75,Subtitle,,0,0,0,,See you later, worm boy!
+Dialogue: 0,0:04:53.54,0:04:54.58,Subtitle,,0,0,0,,Big Bro!
+Dialogue: 0,0:04:54.58,0:04:57.50,Subtitle,,0,0,0,,Getting abused by members of nobility\Nwas a part of everyday life.
+Dialogue: 0,0:04:57.50,0:04:59.46,Subtitle,,0,0,0,,But I didn't care as long as Cless was safe.
+Dialogue: 0,0:04:59.46,0:05:02.46,Subtitle,,0,0,0,,I would let them tease me\Nand beat me all they wanted.
+Dialogue: 0,0:05:02.46,0:05:04.04,Subtitle,,0,0,0,,Are you okay, Big Bro?
+Dialogue: 0,0:05:04.04,0:05:05.92,Subtitle,,0,0,0,,Yeah. Don't worry about me.
+Dialogue: 0,0:05:07.63,0:05:09.67,Subtitle,,0,0,0,,I'm sorry, Big Bro!
+Dialogue: 0,0:05:09.67,0:05:12.46,Subtitle,,0,0,0,,I never should have looked them in the eyes!
+Dialogue: 0,0:05:12.46,0:05:14.96,Subtitle,,0,0,0,,Enough crying. You need to man up, Cless.
+Dialogue: 0,0:05:15.38,0:05:18.17,Subtitle,,0,0,0,,I would protect Cless no matter what it took.
+Dialogue: 0,0:05:18.17,0:05:19.96,Subtitle,,0,0,0,,That was the one thing I swore to myself.
+Dialogue: 0,0:05:19.96,0:05:23.08,Subtitle,,0,0,0,,But you're all bloody and messed up\Nbecause of me...
+Dialogue: 0,0:05:23.08,0:05:25.29,Subtitle,,0,0,0,,I mean, you could say the same\Nabout yourself.
+Dialogue: 0,0:05:25.29,0:05:27.92,Subtitle,,0,0,0,,You're in way worse shape than I am!
+Dialogue: 0,0:05:27.92,0:05:31.46,Subtitle,,0,0,0,,I told you not to worry!\NYou know I'm built tough, right?
+Dialogue: 0,0:05:31.58,0:05:33.29,Subtitle,,0,0,0,,Go on. Take a good look.
+Dialogue: 0,0:05:34.67,0:05:35.96,Subtitle,,0,0,0,,Super recovery mode.
+Dialogue: 0,0:05:35.96,0:05:37.92,Subtitle,,0,0,0,,Gosh, you're so amazing, Big Bro!
+Dialogue: 0,0:05:38.88,0:05:39.92,Subtitle,,0,0,0,,Wait a damn minute!
+Dialogue: 0,0:05:39.92,0:05:41.83,Subtitle,,0,0,0,,You could do that\Nwhen you were just a kid?!
+Dialogue: 0,0:05:41.83,0:05:43.33,Subtitle,,0,0,0,,Yep! It came to me naturally.
+Dialogue: 0,0:05:43.33,0:05:47.04,Subtitle,,0,0,0,,Hold up, that must mean you had\Nalready awakened your hero powers!
+Dialogue: 0,0:05:47.04,0:05:49.50,Subtitle,,0,0,0,,Thinking back on it, you're probably right.
+Dialogue: 0,0:05:49.67,0:05:51.04,Subtitle,,0,0,0,,But at the time,
+Dialogue: 0,0:05:51.04,0:05:54.25,Subtitle,,0,0,0,,I just thought of myself as being\Na little more durable than everybody else.
+Dialogue: 0,0:05:55.50,0:05:57.46,Subtitle,,0,0,0,,I wonder when it happened...
+Dialogue: 0,0:05:57.46,0:06:01.17,Subtitle,,0,0,0,,I actually don't remember anything\Nabout when I first awakened my powers.
+Dialogue: 0,0:06:01.29,0:06:04.46,Subtitle,,0,0,0,,Does that mean he awakened\Nwhen he was still just a baby?
+Dialogue: 0,0:06:04.46,0:06:07.38,Subtitle,,0,0,0,,In which case, he developed\Nand matured while totally free
+Dialogue: 0,0:06:07.38,0:06:09.08,Subtitle,,0,0,0,,from any of the usual human limitations.
+Dialogue: 0,0:06:09.08,0:06:11.13,Subtitle,,0,0,0,,No wonder he's crazy strong.
+Dialogue: 0,0:06:13.00,0:06:14.96,Subtitle,,0,0,0,,Sorry about that. Please continue.
+Dialogue: 0,0:06:14.96,0:06:17.04,Subtitle,,0,0,0,,Okay, but would you like\Nmore hot cocoa first?
+Dialogue: 0,0:06:17.04,0:06:18.79,Subtitle,,0,0,0,,Oh... yes, please.
+Dialogue: 0,0:06:20.04,0:06:22.21,Subtitle,,0,0,0,,They continued to torment us\Nmore after that.
+Dialogue: 0,0:06:23.67,0:06:26.38,Subtitle,,0,0,0,,Sometimes our food would get\Nthrown into the river.
+Dialogue: 0,0:06:26.38,0:06:29.67,Subtitle,,0,0,0,,And our home would get ransacked\Nor lit on fire.
+Dialogue: 0,0:06:29.79,0:06:32.92,Subtitle,,0,0,0,,There were even times the harassment\Nfrom drunk nobles was so bad
+Dialogue: 0,0:06:32.92,0:06:34.13,Subtitle,,0,0,0,,I thought they'd kill me.
+Dialogue: 0,0:06:34.29,0:06:35.75,Subtitle,,0,0,0,,And on some days,
+Dialogue: 0,0:06:35.75,0:06:38.79,Subtitle,,0,0,0,,the meager wages that I had worked\Nto earn would get taken right from me.
+Dialogue: 0,0:06:38.79,0:06:43.00,Subtitle,,0,0,0,,Despite all of that, leaving the\Nroyal capital wasn't an option for us.
+Dialogue: 0,0:06:43.42,0:06:46.38,Subtitle,,0,0,0,,Monsters had been spawning\Noutside of the city in great numbers,
+Dialogue: 0,0:06:46.38,0:06:49.21,Subtitle,,0,0,0,,bringing chaos and death in their wake.
+Dialogue: 0,0:06:49.21,0:06:54.83,Subtitle,,0,0,0,,So no matter how bad the abuse was,\Nwe had no choice except to stay in the capital.
+Dialogue: 0,0:06:56.58,0:06:59.71,Subtitle,,0,0,0,,Nonetheless, our outlook\Nwas always optimistic.
+Dialogue: 0,0:06:59.71,0:07:01.71,Subtitle,,0,0,0,,Cless! Bad news!
+Dialogue: 0,0:07:01.71,0:07:03.67,Subtitle,,0,0,0,,I only got paid in bread today!
+Dialogue: 0,0:07:03.79,0:07:05.50,Subtitle,,0,0,0,,But it's filled with cheese!
+Dialogue: 0,0:07:05.50,0:07:06.42,Subtitle,,0,0,0,,Hooray!
+Dialogue: 0,0:07:06.42,0:07:09.13,Subtitle,,0,0,0,,That's not all!\NI managed to barter for some eggs, too!
+Dialogue: 0,0:07:09.13,0:07:11.38,Subtitle,,0,0,0,,Wow, you're so good at bartering!
+Dialogue: 0,0:07:11.38,0:07:13.63,Subtitle,,0,0,0,,Such noisy little brats.
+Dialogue: 0,0:07:15.46,0:07:18.29,Subtitle,,0,0,0,,I didn't want to sour the mood\Nby being gloomy.
+Dialogue: 0,0:07:19.29,0:07:22.29,Subtitle,,0,0,0,,Cless, the day will come when\Nthere are less monsters around,
+Dialogue: 0,0:07:22.29,0:07:23.58,Subtitle,,0,0,0,,and that's when we'll leave.
+Dialogue: 0,0:07:23.58,0:07:25.33,Subtitle,,0,0,0,,The two of us will set out on a journey.
+Dialogue: 0,0:07:25.33,0:07:26.42,Subtitle,,0,0,0,,A journey?
+Dialogue: 0,0:07:26.42,0:07:27.50,Subtitle,,0,0,0,,Yep.
+Dialogue: 0,0:07:27.88,0:07:30.25,Subtitle,,0,0,0,,We'll travel the world\Nuntil we find a peaceful place
+Dialogue: 0,0:07:30.25,0:07:32.71,Subtitle,,0,0,0,,where we can live\Nwithout being harassed by anyone.
+Dialogue: 0,0:07:34.42,0:07:35.67,Subtitle,,0,0,0,,Okay!
+Dialogue: 0,0:07:35.67,0:07:39.75,Subtitle,,0,0,0,,I didn't need a rich and fancy lifestyle.\NI just wanted to be with Cless.
+Dialogue: 0,0:07:39.75,0:07:42.71,Subtitle,,0,0,0,,As long as the two of us could live happily,\Nthen that was more than enough for me.
+Dialogue: 0,0:07:43.21,0:07:47.58,Subtitle,,0,0,0,,But sadly, another tragic event\Nwas waiting for us just around the corner.
+Dialogue: 0,0:07:48.63,0:07:50.50,Subtitle,,0,0,0,,Seems like your little brother's immune system\Nwas in poor shape due to malnutrition.
+Dialogue: 0,0:07:50.50,0:07:53.04,Subtitle-2,,0,0,0,,Cless! Hang in there, Cless!\N{\rSubtitle}Seems like your little brother's immune system{\r}\N{\rSubtitle}was in poor shape due to malnutrition.{\r}
+Dialogue: 0,0:07:53.04,0:07:53.46,Subtitle-2,,0,0,0,,Cless! Hang in there, Cless!
+Dialogue: 0,0:07:53.46,0:07:54.04,Subtitle-2,,0,0,0,,Cless! Hang in there, Cless!\N{\rSubtitle}He's too young to survive an illness like this.{\r}
+Dialogue: 0,0:07:54.04,0:07:55.92,Subtitle,,0,0,0,,He's too young to survive an illness like this.
+Dialogue: 0,0:07:55.92,0:07:57.00,Subtitle,,0,0,0,,Cless!
+Dialogue: 0,0:07:57.00,0:07:58.96,Subtitle,,0,0,0,,He won't last through the night.
+Dialogue: 0,0:07:59.21,0:08:01.42,Subtitle,,0,0,0,,No way!\NThere must be something you can do!
+Dialogue: 0,0:08:01.42,0:08:05.04,Subtitle,,0,0,0,,Don't look at me.\NI'm not even a doctor, kid.
+Dialogue: 0,0:08:05.79,0:08:09.67,Subtitle,,0,0,0,,This is my fault.\NI should have done more to keep him fed!
+Dialogue: 0,0:08:09.67,0:08:11.33,Subtitle,,0,0,0,,Then he'd be okay!
+Dialogue: 0,0:08:11.33,0:08:15.21,Subtitle,,0,0,0,,Don't blame yourself.\NThat's just how life goes around here.
+Dialogue: 0,0:08:15.46,0:08:17.33,Subtitle,,0,0,0,,He's not the only one, you know.
+Dialogue: 0,0:08:17.33,0:08:19.75,Subtitle,,0,0,0,,You just gotta chalk it up\Nto fate and move on.
+Dialogue: 0,0:08:20.21,0:08:21.50,Subtitle,,0,0,0,,To hell with fate!
+Dialogue: 0,0:08:21.50,0:08:23.92,Subtitle,,0,0,0,,I won't accept it!\NI'm not letting Cless die!
+Dialogue: 0,0:08:24.42,0:08:27.33,Subtitle,,0,0,0,,Hang tight, Cless.\NI'm going to bring a doctor for you right away!
+Dialogue: 0,0:08:27.71,0:08:28.92,Subtitle,,0,0,0,,Don't waste your time!
+Dialogue: 0,0:08:28.92,0:08:31.33,Subtitle,,0,0,0,,I mean, what can you hope to accomplish\Nwithout any money?
+Dialogue: 0,0:08:31.33,0:08:34.00,Subtitle,,0,0,0,,I have some that I saved up\Nfor when we were ready to move.
+Dialogue: 0,0:08:36.00,0:08:38.71,Subtitle,,0,0,0,,Wait! You shouldn't get your hopes up!
+Dialogue: 0,0:08:38.71,0:08:41.17,Subtitle,,0,0,0,,Nobody's gonna go out of their way\Nto save bottom of the barrel folks like us!
+Dialogue: 0,0:08:41.17,0:08:44.46,Subtitle,,0,0,0,,Especially since plenty of them\Nthink we're better off dead in a ditch!
+Dialogue: 0,0:08:44.46,0:08:46.42,Subtitle,,0,0,0,,Come back! Just give up!
+Dialogue: 0,0:08:48.38,0:08:50.42,Subtitle,,0,0,0,,I knew the old-timer had a point.
+Dialogue: 0,0:08:50.42,0:08:51.46,Subtitle,,0,0,0,,But even so,
+Dialogue: 0,0:08:51.46,0:08:54.79,Subtitle,,0,0,0,,there was no way I was just going\Nto stand by and watch Cless die.
+Dialogue: 0,0:08:54.79,0:08:55.54,Subtitle,,0,0,0,,I went to house after house.
+Dialogue: 0,0:08:55.54,0:08:57.04,Subtitle-2,,0,0,0,,Excuse me! Please open up!\N{\rSubtitle}I went to house after house.{\r}
+Dialogue: 0,0:08:57.04,0:08:58.25,Subtitle,,0,0,0,,My little brother is sick!
+Dialogue: 0,0:08:58.42,0:08:58.92,Subtitle,,0,0,0,,I don't care. Go away!
+Dialogue: 0,0:08:58.92,0:09:00.25,Subtitle-2,,0,0,0,,Knocking on door after door.\N{\rSubtitle}I don't care. Go away!{\r}
+Dialogue: 0,0:09:00.25,0:09:01.13,Subtitle,,0,0,0,,Get lost!
+Dialogue: 0,0:09:01.13,0:09:03.08,Subtitle-2,,0,0,0,,Begging for help over and over.\N{\rSubtitle}The less of you bums there are{\r}\N{\rSubtitle}stinking up the slums, the better!{\r}
+Dialogue: 0,0:09:03.08,0:09:04.50,Subtitle,,0,0,0,,The less of you bums there are\Nstinking up the slums, the better!
+Dialogue: 0,0:09:04.50,0:09:05.42,Subtitle,,0,0,0,,But...
+Dialogue: 0,0:09:05.42,0:09:06.71,Subtitle,,0,0,0,,If you want money, I have some!
+Dialogue: 0,0:09:06.71,0:09:09.83,Subtitle,,0,0,0,,And if that's not enough, I swear on my life\NI'll bring you more in a day or two!
+Dialogue: 0,0:09:09.83,0:09:12.54,Subtitle,,0,0,0,,I'm begging you!\NPlease just take a look at my brother!
+Dialogue: 0,0:09:13.04,0:09:15.75,Subtitle,,0,0,0,,Hey, kid. How'd you get all that money?
+Dialogue: 0,0:09:15.75,0:09:16.92,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:09:17.08,0:09:20.00,Subtitle,,0,0,0,,There's no way some brat from the slums\Nwould have this kind of money.
+Dialogue: 0,0:09:20.00,0:09:21.63,Subtitle,,0,0,0,,Where'd you steal it from?!
+Dialogue: 0,0:09:21.63,0:09:22.79,Subtitle,,0,0,0,,B-but I didn't!
+Dialogue: 0,0:09:22.79,0:09:24.50,Subtitle,,0,0,0,,I've been earning it\Nlittle by little each day...
+Dialogue: 0,0:09:24.50,0:09:26.25,Subtitle,,0,0,0,,Hey! Call the guards!
+Dialogue: 0,0:09:26.25,0:09:27.42,Subtitle,,0,0,0,,We've got a thief here!
+Dialogue: 0,0:09:27.42,0:09:28.42,Subtitle,,0,0,0,,No...
+Dialogue: 0,0:09:28.42,0:09:29.67,Subtitle,,0,0,0,,No!
+Dialogue: 0,0:09:34.67,0:09:36.58,Subtitle,,0,0,0,,I kept on trying.
+Dialogue: 0,0:09:36.58,0:09:38.54,Subtitle,,0,0,0,,I didn't want to give up.
+Dialogue: 0,0:09:38.67,0:09:39.67,Subtitle,,0,0,0,,Big Bro...
+Dialogue: 0,0:09:39.67,0:09:41.79,Subtitle,,0,0,0,,Sorry about this, Cless.
+Dialogue: 0,0:09:41.79,0:09:43.71,Subtitle,,0,0,0,,Just hold on a little longer.
+Dialogue: 0,0:09:43.96,0:09:46.63,Subtitle,,0,0,0,,I'm sorry... Big Bro...
+Dialogue: 0,0:09:46.63,0:09:48.88,Subtitle,,0,0,0,,I'm always causing trouble for you...
+Dialogue: 0,0:09:49.58,0:09:50.88,Subtitle,,0,0,0,,Don't be silly.
+Dialogue: 0,0:09:50.88,0:09:54.08,Subtitle,,0,0,0,,You've never caused me trouble before.\NNot even once.
+Dialogue: 0,0:09:54.25,0:09:55.50,Subtitle,,0,0,0,,Keep your spirits up.
+Dialogue: 0,0:09:55.50,0:09:58.00,Subtitle,,0,0,0,,I'm definitely going to find you\Na doctor, okay?
+Dialogue: 0,0:09:58.00,0:09:59.33,Subtitle,,0,0,0,,Okay...
+Dialogue: 0,0:10:00.00,0:10:02.67,Subtitle,,0,0,0,,What do you say we leave here\Nonce the weather warms up?
+Dialogue: 0,0:10:03.13,0:10:06.38,Subtitle,,0,0,0,,It's hard to get our hands on\Nany food these days.
+Dialogue: 0,0:10:06.58,0:10:08.92,Subtitle,,0,0,0,,And since we get harassed all the time,
+Dialogue: 0,0:10:08.92,0:10:12.42,Subtitle,,0,0,0,,things might actually be better\Nif we tried living with the monsters!
+Dialogue: 0,0:10:16.25,0:10:17.67,Subtitle,,0,0,0,,Remember what I told you before?
+Dialogue: 0,0:10:17.67,0:10:20.00,Subtitle,,0,0,0,,About how we'd travel\Nand find a peaceful place?
+Dialogue: 0,0:10:20.00,0:10:21.75,Subtitle,,0,0,0,,That's where we'll live.
+Dialogue: 0,0:10:21.75,0:10:25.54,Subtitle,,0,0,0,,I know the monsters and bandits\Nmight be scary, but it'll be okay!
+Dialogue: 0,0:10:25.54,0:10:28.21,Subtitle,,0,0,0,,I'm gonna put on muscle\Nuntil I'm strong enough to beat them,
+Dialogue: 0,0:10:28.21,0:10:29.92,Subtitle,,0,0,0,,and then send them all packing!
+Dialogue: 0,0:10:30.54,0:10:31.63,Subtitle,,0,0,0,,Big Bro...
+Dialogue: 0,0:10:31.63,0:10:34.83,Subtitle,,0,0,0,,I'm always going to be there\Nto protect you, okay?
+Dialogue: 0,0:10:37.88,0:10:39.08,Subtitle,,0,0,0,,Cless?
+Dialogue: 0,0:10:45.08,0:10:48.00,Subtitle,,0,0,0,,Stay with me!\NYou can't die in a place like this!
+Dialogue: 0,0:10:48.00,0:10:49.75,Subtitle,,0,0,0,,I started running frantically.
+Dialogue: 0,0:10:49.75,0:10:51.83,Subtitle,,0,0,0,,And sought help from anyone who I came across.
+Dialogue: 0,0:10:52.33,0:10:55.38,Subtitle,,0,0,0,,Somebody help! Please, I need help!
+Dialogue: 0,0:10:55.38,0:10:57.21,Subtitle,,0,0,0,,My little brother is sick!
+Dialogue: 0,0:10:57.42,0:11:00.50,Subtitle,,0,0,0,,I have some money!\NPlease take me to a doctor!
+Dialogue: 0,0:11:00.50,0:11:01.42,Subtitle,,0,0,0,,I'm begging you!
+Dialogue: 0,0:11:01.42,0:11:04.21,Subtitle,,0,0,0,,My brother needs help!\NSomebody please save Cless!
+Dialogue: 0,0:11:05.42,0:11:07.42,Subtitle,,0,0,0,,Goddamn slum vermin!
+Dialogue: 0,0:11:07.88,0:11:09.71,Subtitle,,0,0,0,,Don't spread your diseases around here!
+Dialogue: 0,0:11:09.71,0:11:11.50,Subtitle,,0,0,0,,Go back where you came from!
+Dialogue: 0,0:11:11.79,0:11:13.21,Subtitle,,0,0,0,,Please help...
+Dialogue: 0,0:11:14.75,0:11:17.54,Subtitle,,0,0,0,,Please... help Cless...
+Dialogue: 0,0:11:18.54,0:11:20.96,Subtitle,,0,0,0,,Dammit! Dammit...
+Dialogue: 0,0:11:21.92,0:11:24.63,Subtitle,,0,0,0,,Hey, little guy. What's the matter?
+Dialogue: 0,0:11:35.33,0:11:36.71,Subtitle,,0,0,0,,What's the matter?
+Dialogue: 0,0:11:36.88,0:11:38.04,Subtitle,,0,0,0,,A noble...
+Dialogue: 0,0:11:38.42,0:11:41.54,Subtitle,,0,0,0,,You were shouting just a minute ago.\NWhat's going on?
+Dialogue: 0,0:11:42.08,0:11:44.67,Subtitle,,0,0,0,,My little brother is close to dying\Nbecause of an illness.
+Dialogue: 0,0:11:44.67,0:11:46.63,Subtitle,,0,0,0,,I need help! Please!
+Dialogue: 0,0:11:46.63,0:11:48.04,Subtitle,,0,0,0,,Save my brother...
+Dialogue: 0,0:11:52.42,0:11:54.67,Subtitle,,0,0,0,,She just wanted to torment me...
+Dialogue: 0,0:11:54.67,0:11:57.04,Subtitle,,0,0,0,,Dammit... Dammit!
+Dialogue: 0,0:11:57.58,0:12:00.46,Subtitle,,0,0,0,,Hey, Father! Listen! It's an emergency!
+Dialogue: 0,0:12:00.46,0:12:03.75,Subtitle,,0,0,0,,There's this grubby and ragged kid\Nover there who's about to die!
+Dialogue: 0,0:12:04.92,0:12:08.38,Subtitle,,0,0,0,,Jeez, I really need to teach you\Nto have a little more tact in public...
+Dialogue: 0,0:12:08.38,0:12:11.04,Subtitle,,0,0,0,,Hurry up! He's gonna die!
+Dialogue: 0,0:12:16.21,0:12:18.33,Subtitle,,0,0,0,,What's wrong? Are you okay?
+Dialogue: 0,0:12:23.25,0:12:25.50,Subtitle,,0,0,0,,This boy is very emaciated.
+Dialogue: 0,0:12:25.50,0:12:27.79,Subtitle,,0,0,0,,Let's get him to a doctor right away.
+Dialogue: 0,0:12:28.46,0:12:29.83,Subtitle,,0,0,0,,Prepare the coach!
+Dialogue: 0,0:12:29.83,0:12:32.04,Subtitle,,0,0,0,,But, sir, that will make you late to the party...
+Dialogue: 0,0:12:32.04,0:12:33.88,Subtitle,,0,0,0,,Just tell them that\NI won't be attending tonight.
+Dialogue: 0,0:12:33.88,0:12:34.96,Subtitle,,0,0,0,,As you wish.
+Dialogue: 0,0:12:40.08,0:12:42.63,Subtitle,,0,0,0,,Cless just barely survived the night.
+Dialogue: 0,0:12:42.63,0:12:45.46,Subtitle,,0,0,0,,It was so close that any later\Nand he would have died.
+Dialogue: 0,0:12:47.71,0:12:50.29,Subtitle,,0,0,0,,The man who saved us was a noble.
+Dialogue: 0,0:12:50.29,0:12:53.88,Subtitle,,0,0,0,,A member of the same hierarchy\Nthat had made our lives a living hell.
+Dialogue: 0,0:12:54.04,0:12:55.21,Subtitle-3,,0,0,0,,Thank you, sir! Thank you so much!
+Dialogue: 0,0:12:55.21,0:12:58.50,Subtitle,,0,0,0,,But at that point,\Nnone of it really mattered to me.\N{\rSubtitle-4}Thank you, sir! Thank you so much!{\r}
+Dialogue: 0,0:12:58.96,0:13:01.33,Subtitle,,0,0,0,,Gratitude was the only thing I felt.\N{\rSubtitle-4}I can't thank you enough!{\r}
+Dialogue: 0,0:13:02.13,0:13:05.88,Subtitle,,0,0,0,,Thank you so much! Thank you so much!
+Dialogue: 0,0:13:07.58,0:13:09.54,Subtitle,,0,0,0,,From the day that we met those nobles,\Nour futures started to change drastically.
+Dialogue: 0,0:13:09.54,0:13:11.83,Subtitle-2,,0,0,0,,Thank you so much...\N{\rSubtitle}From the day that we met those nobles,{\r}\N{\rSubtitle}our futures started to change drastically.{\r}
+Dialogue: 0,0:13:11.83,0:13:12.88,Subtitle,,0,0,0,,From the day that we met those nobles,\Nour futures started to change drastically.
+Dialogue: 0,0:13:24.83,0:13:26.25,Subtitle,,0,0,0,,We can't hold the line any longer!
+Dialogue: 0,0:13:26.25,0:13:27.04,Subtitle,,0,0,0,,Order a retreat!
+Dialogue: 0,0:13:27.04,0:13:28.08,Subtitle,,0,0,0,,Don't be stupid!
+Dialogue: 0,0:13:28.08,0:13:30.21,Subtitle,,0,0,0,,There'll be nowhere left for us to go\Nif they break through here!
+Dialogue: 0,0:13:30.21,0:13:31.13,Subtitle,,0,0,0,,I know!
+Dialogue: 0,0:13:31.13,0:13:34.13,Subtitle,,0,0,0,,But it's impossible to defeat these\Nmonsters with the troops we have left!
+Dialogue: 0,0:13:34.13,0:13:35.46,Subtitle,,0,0,0,,Retreating is not an option!
+Dialogue: 0,0:13:35.46,0:13:38.46,Subtitle,,0,0,0,,Now act like a soldier\Nand keep fighting until the last man!
+Dialogue: 0,0:13:41.04,0:13:43.71,Subtitle,,0,0,0,,N-no way! I don't wanna die!
+Dialogue: 0,0:13:43.71,0:13:44.88,Subtitle,,0,0,0,,Have no fear!
+Dialogue: 0,0:13:55.08,0:13:56.63,Subtitle,,0,0,0,,He took it down with one hit...
+Dialogue: 0,0:14:00.33,0:14:02.38,Subtitle,,0,0,0,,We're saved! It's Cless!
+Dialogue: 0,0:14:02.96,0:14:05.79,Subtitle,,0,0,0,,Captain Cless of the\NThird Infantry Regiment is here!
+Dialogue: 0,0:14:16.67,0:14:18.33,Subtitle,,0,0,0,,We will defend this position!
+Dialogue: 0,0:14:21.00,0:14:22.42,Subtitle,,0,0,0,,Cover us from the rear.
+Dialogue: 0,0:14:22.96,0:14:23.75,Subtitle,,0,0,0,,Yessir!
+Dialogue: 0,0:14:23.75,0:14:25.04,Subtitle,,0,0,0,,U-uh...
+Dialogue: 0,0:14:25.67,0:14:26.92,Subtitle,,0,0,0,,Yessir!
+Dialogue: 0,0:14:28.92,0:14:30.67,Subtitle,,0,0,0,,Leave no monster standing!
+Dialogue: 0,0:14:30.67,0:14:33.17,Subtitle,,0,0,0,,Third Infantry Regiment!\NFollow my lead!
+Dialogue: 0,0:14:35.42,0:14:37.17,Subtitle,,0,0,0,,We'll join the charge, too!
+Dialogue: 0,0:14:45.92,0:14:47.29,Subtitle,,0,0,0,,Captain Cless!
+Dialogue: 0,0:14:49.25,0:14:51.08,Subtitle,,0,0,0,,We love you!
+Dialogue: 0,0:15:02.25,0:15:06.50,Subtitle,,0,0,0,,The nobleman who saved Cless was\Na member of the prestigious Raphaed family,
+Dialogue: 0,0:15:06.50,0:15:08.92,Subtitle,,0,0,0,,who've supported the royal family\Nsince the kingdom's founding.
+Dialogue: 0,0:15:09.71,0:15:11.50,Subtitle,,0,0,0,,On that day I sought help,
+Dialogue: 0,0:15:11.50,0:15:15.33,Subtitle,,0,0,0,,the one and only person who\Nheard me out was their eldest daughter,
+Dialogue: 0,0:15:15.33,0:15:16.46,Subtitle,,0,0,0,,Shalamy.
+Dialogue: 0,0:15:16.83,0:15:17.67,Subtitle,,0,0,0,,Hey!
+Dialogue: 0,0:15:19.00,0:15:21.04,Subtitle-4,,0,0,0,,Do you guys wanna play with me?\N{\rSubtitle}For whatever reason, she came to visit us{\r}\N{\rSubtitle}even after Cless got better{\r}
+Dialogue: 0,0:15:21.04,0:15:22.46,Subtitle-4,,0,0,0,,Yeah, that sounds fun.\N{\rSubtitle}For whatever reason, she came to visit us{\r}\N{\rSubtitle}even after Cless got better{\r}
+Dialogue: 0,0:15:22.46,0:15:24.13,Subtitle-4,,0,0,0,,What do you want to play?\N{\rSubtitle}and became our playmate.{\r}
+Dialogue: 0,0:15:24.54,0:15:25.92,Subtitle,,0,0,0,,She was an odd ball
+Dialogue: 0,0:15:25.92,0:15:29.33,Subtitle,,0,0,0,,who never discriminated against the people\Nof the slum and just treated us normally.
+Dialogue: 0,0:15:29.33,0:15:30.58,Subtitle,,0,0,0,,Let's race!
+Dialogue: 0,0:15:31.96,0:15:34.25,Subtitle,,0,0,0,,After we started spending more time with her,
+Dialogue: 0,0:15:34.25,0:15:37.13,Subtitle,,0,0,0,,the number of nobles who harassed us\Nbecame few and far between.
+Dialogue: 0,0:15:37.46,0:15:39.67,Subtitle,,0,0,0,,They must have figured\Nwe were Shalamy's friends,
+Dialogue: 0,0:15:39.67,0:15:43.38,Subtitle,,0,0,0,,or actually, servants who\Nwere working in her service.
+Dialogue: 0,0:15:43.38,0:15:46.58,Subtitle,,0,0,0,,No matter the case,\Nit was truly comforting to me.
+Dialogue: 0,0:15:49.42,0:15:52.13,Subtitle,,0,0,0,,But it left Cless with\Na gloomy look on his face.
+Dialogue: 0,0:15:53.58,0:15:57.17,Subtitle,,0,0,0,,Other people who we knew from the slums\Nwere still facing awful hardships.
+Dialogue: 0,0:15:57.17,0:15:59.17,Subtitle,,0,0,0,,That fact unsettled Cless
+Dialogue: 0,0:15:59.17,0:16:02.29,Subtitle,,0,0,0,,and made him unable to take\Nany pleasure from our new situation.
+Dialogue: 0,0:16:02.67,0:16:04.50,Subtitle,,0,0,0,,Remember what the old-timer said?
+Dialogue: 0,0:16:04.71,0:16:06.71,Subtitle,,0,0,0,,As long as monsters plague the kingdom,
+Dialogue: 0,0:16:06.71,0:16:08.88,Subtitle,,0,0,0,,the people of the capital\Nwill always be stressed out.
+Dialogue: 0,0:16:08.88,0:16:09.75,Subtitle,,0,0,0,,Right.
+Dialogue: 0,0:16:09.75,0:16:11.88,Subtitle,,0,0,0,,And without any room to breathe,
+Dialogue: 0,0:16:11.88,0:16:13.92,Subtitle,,0,0,0,,everyone will be focused on living their own lives,
+Dialogue: 0,0:16:13.92,0:16:16.71,Subtitle,,0,0,0,,so even if someone tried to start a movement\Nagainst ending discrimination,
+Dialogue: 0,0:16:16.71,0:16:18.46,Subtitle,,0,0,0,,nobody would join in.
+Dialogue: 0,0:16:19.38,0:16:20.50,Subtitle,,0,0,0,,Right.
+Dialogue: 0,0:16:20.50,0:16:24.54,Subtitle,,0,0,0,,Once the threat of the monsters goes away,\Nand tensions ease up in the kingdom,
+Dialogue: 0,0:16:24.54,0:16:26.75,Subtitle,,0,0,0,,then the capital will become\Na much better place!
+Dialogue: 0,0:16:27.00,0:16:28.04,Subtitle,,0,0,0,,Right.
+Dialogue: 0,0:16:30.00,0:16:33.17,Subtitle,,0,0,0,,Big Bro, I wanna become\Na soldier someday!
+Dialogue: 0,0:16:33.17,0:16:33.79,Subtitle,,0,0,0,,Huh?!
+Dialogue: 0,0:16:33.79,0:16:37.04,Subtitle,,0,0,0,,I'm going to train to be an upstanding warrior\Njust like Shalamy's dad!
+Dialogue: 0,0:16:37.04,0:16:39.33,Subtitle,,0,0,0,,And free everyone from\Nthe terror of the monsters!
+Dialogue: 0,0:16:39.83,0:16:40.88,Subtitle,,0,0,0,,Okay then!
+Dialogue: 0,0:16:40.88,0:16:45.50,Subtitle,,0,0,0,,At the age of five, Cless began\Nfollowing a path of his own choosing.
+Dialogue: 0,0:16:49.92,0:16:54.92,Subtitle,,0,0,0,,And from that point onward,\Nhe would train his body every day without fail.
+Dialogue: 0,0:16:59.50,0:17:02.08,Subtitle,,0,0,0,,He joined the army at 16,
+Dialogue: 0,0:17:02.08,0:17:06.25,Subtitle,,0,0,0,,and by the time he turned 18 he had\Nalready been promoted to the rank of Captain.
+Dialogue: 0,0:17:11.21,0:17:14.04,Subtitle,,0,0,0,,Wow. Great view from up here.
+Dialogue: 0,0:17:14.96,0:17:17.17,Subtitle,,0,0,0,,Oh hey! Nice to see you, Mr. Raphaed!
+Dialogue: 0,0:17:17.17,0:17:18.67,Subtitle,,0,0,0,,Greetings, Helck.
+Dialogue: 0,0:17:18.92,0:17:21.58,Subtitle,,0,0,0,,I happened to catch sight of you\Nwhile passing by.
+Dialogue: 0,0:17:21.58,0:17:22.88,Subtitle,,0,0,0,,Have you been well?
+Dialogue: 0,0:17:22.88,0:17:23.88,Subtitle,,0,0,0,,Yes!
+Dialogue: 0,0:17:25.54,0:17:29.08,Subtitle,,0,0,0,,It looks like Cless has really made\Na name for himself this time.
+Dialogue: 0,0:17:29.75,0:17:31.67,Subtitle,,0,0,0,,Whenever he goes out on the battlefield,
+Dialogue: 0,0:17:31.67,0:17:34.13,Subtitle,,0,0,0,,I get the feeling the kingdom\Ngrows a little bit brighter.
+Dialogue: 0,0:17:35.08,0:17:37.63,Subtitle,,0,0,0,,Actually, it's more than just a feeling.
+Dialogue: 0,0:17:37.63,0:17:41.83,Subtitle,,0,0,0,,The people of the kingdom have been\Ntotally won over by his charisma.
+Dialogue: 0,0:17:42.00,0:17:45.21,Subtitle,,0,0,0,,That tiny boy from all those years ago\Ngrew into a warrior capable
+Dialogue: 0,0:17:45.21,0:17:48.96,Subtitle,,0,0,0,,of easily defeating monsters that\Nany regular soldier would struggle against.
+Dialogue: 0,0:17:49.63,0:17:53.21,Subtitle,,0,0,0,,Hell, I don't think even I could compete\Nwith him at this point.
+Dialogue: 0,0:17:53.21,0:17:56.00,Subtitle,,0,0,0,,That's impossible.\NYou're giving him too much credit!
+Dialogue: 0,0:17:56.96,0:17:58.88,Subtitle,,0,0,0,,You don't have to humor me.
+Dialogue: 0,0:17:59.13,0:18:01.67,Subtitle,,0,0,0,,Cless still has the potential to grow stronger.
+Dialogue: 0,0:18:01.67,0:18:03.83,Subtitle,,0,0,0,,And I have no doubt that he will.
+Dialogue: 0,0:18:04.67,0:18:10.42,Subtitle,,0,0,0,,I would even go as far as to say that Cless\Nmay become the savior of this kingdom.
+Dialogue: 0,0:18:10.75,0:18:12.96,Subtitle,,0,0,0,,A savior, you really think so?
+Dialogue: 0,0:18:14.17,0:18:15.83,Subtitle,,0,0,0,,That idea is a lot to chew on!
+Dialogue: 0,0:18:15.83,0:18:18.08,Subtitle,,0,0,0,,Helck! Where did Helck get off to?!
+Dialogue: 0,0:18:18.08,0:18:18.96,Subtitle,,0,0,0,,He better stop slacking off!
+Dialogue: 0,0:18:18.96,0:18:20.08,Subtitle-2,,0,0,0,,Uh-oh.\N{\rSubtitle}He better stop slacking off!{\r}
+Dialogue: 0,0:18:20.08,0:18:21.71,Subtitle,,0,0,0,,I need to get back to work.
+Dialogue: 0,0:18:22.54,0:18:24.38,Subtitle,,0,0,0,,Sorry to take up your time.
+Dialogue: 0,0:18:26.96,0:18:28.50,Subtitle,,0,0,0,,By the way, Helck.
+Dialogue: 0,0:18:28.50,0:18:29.79,Subtitle,,0,0,0,,Yes?
+Dialogue: 0,0:18:30.00,0:18:34.58,Subtitle,,0,0,0,,There's something special about you, too.\NI can feel an indescribable power within you.
+Dialogue: 0,0:18:34.58,0:18:38.25,Subtitle,,0,0,0,,Although, it may just be\Nmy imagination at work.
+Dialogue: 0,0:18:38.63,0:18:43.25,Subtitle,,0,0,0,,But I'm willing to bet that you're\Njust as strong as Cless is.
+Dialogue: 0,0:18:43.25,0:18:44.63,Subtitle,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:18:44.63,0:18:48.33,Subtitle,,0,0,0,,I'm just a beefy guy because of\Nall the hard labor that I've been doing.
+Dialogue: 0,0:18:49.38,0:18:52.92,Subtitle,,0,0,0,,And besides, my swordsmanship\Npales in comparison to Cless.
+Dialogue: 0,0:18:52.92,0:18:55.21,Subtitle,,0,0,0,,I'm an absolute amateur\Nwhen it comes to fighting.
+Dialogue: 0,0:18:56.67,0:18:59.33,Subtitle,,0,0,0,,Casualties from monster attacks\Nare on the rise of late.
+Dialogue: 0,0:18:59.33,0:19:03.08,Subtitle,,0,0,0,,There wouldn't be as much to worry about if we had\Nanother powerful man like Cless on our side.
+Dialogue: 0,0:19:03.08,0:19:04.88,Subtitle,,0,0,0,,Just a thought I had.
+Dialogue: 0,0:19:04.88,0:19:06.08,Subtitle,,0,0,0,,I'm sorry.
+Dialogue: 0,0:19:06.08,0:19:08.08,Subtitle,,0,0,0,,But it turns out that I'm just better suited
+Dialogue: 0,0:19:08.08,0:19:10.58,Subtitle,,0,0,0,,to doing construction work\Nand repairs like I am now.
+Dialogue: 0,0:19:10.58,0:19:11.83,Subtitle,,0,0,0,,Fair enough.
+Dialogue: 0,0:19:12.13,0:19:14.42,Subtitle,,0,0,0,,That's an important job in its own right.
+Dialogue: 0,0:19:14.42,0:19:15.88,Subtitle,,0,0,0,,Keep at it!
+Dialogue: 0,0:19:16.38,0:19:17.92,Subtitle,,0,0,0,,Thinking about it now,
+Dialogue: 0,0:19:17.92,0:19:20.92,Subtitle,,0,0,0,,that man was probably\Npicking up on my hero powers,
+Dialogue: 0,0:19:20.92,0:19:23.17,Subtitle,,0,0,0,,even though I hadn't noticed them myself yet.
+Dialogue: 0,0:19:30.21,0:19:32.04,Subtitle,,0,0,0,,Is that Cless and Shalamy?
+Dialogue: 0,0:19:32.79,0:19:33.88,Subtitle,,0,0,0,,Oh, my.
+Dialogue: 0,0:19:34.83,0:19:36.33,Subtitle,,0,0,0,,Oh, my, my!
+Dialogue: 0,0:19:37.38,0:19:40.75,Subtitle,,0,0,0,,I might be crazy, but I think\Nthe flowers of love are in bloom.
+Dialogue: 0,0:19:41.83,0:19:44.54,Subtitle,,0,0,0,,Those two actually might\Nbe more than just friends.
+Dialogue: 0,0:19:44.54,0:19:46.25,Subtitle,,0,0,0,,But wait, since when?
+Dialogue: 0,0:19:46.42,0:19:50.67,Subtitle,,0,0,0,,She's from a prestigious family of nobles.\NSo it's gonna be a tough road for them.
+Dialogue: 0,0:19:51.75,0:19:55.21,Subtitle,,0,0,0,,But as his big brother,\NI'm gonna lend Cless my full support!
+Dialogue: 0,0:19:55.71,0:19:56.92,Subtitle,,0,0,0,,Hey, Cless?
+Dialogue: 0,0:19:56.92,0:19:59.58,Subtitle,,0,0,0,,Your brother's standing here all alone\Nwith a huge grin on his face.
+Dialogue: 0,0:19:59.58,0:20:01.63,Subtitle,,0,0,0,,My brother's smile is perpetual.
+Dialogue: 0,0:20:01.63,0:20:04.71,Subtitle,,0,0,0,,You two are always in\Na real chipper mood, huh?
+Dialogue: 0,0:20:05.67,0:20:07.33,Subtitle,,0,0,0,,Hey, there! Shalamy and Cless!
+Dialogue: 0,0:20:07.33,0:20:10.25,Subtitle,,0,0,0,,Thanks for waiting.\NI stumbled into Shalamy on my way here.
+Dialogue: 0,0:20:10.25,0:20:10.50,Subtitle-3,,0,0,0,,I'm gonna join in on your fun!
+Dialogue: 0,0:20:10.50,0:20:11.92,Subtitle,,0,0,0,,Circumstances had forced\NCless and I to live apart\N{\rSubtitle-4}I'm gonna join in on your fun!{\r}
+Dialogue: 0,0:20:11.92,0:20:12.46,Subtitle,,0,0,0,,Circumstances had forced\NCless and I to live apart\N{\rSubtitle-4}The more the merrier!{\r}
+Dialogue: 0,0:20:12.46,0:20:13.25,Subtitle,,0,0,0,,ever since he became a member of the army.\N{\rSubtitle-4}The more the merrier!{\r}
+Dialogue: 0,0:20:13.25,0:20:14.83,Subtitle,,0,0,0,,ever since he became a member of the army.\N{\rSubtitle-4}Let's hit up the usual place, Helck.{\r}
+Dialogue: 0,0:20:14.83,0:20:15.46,Subtitle-3,,0,0,0,,Sure!
+Dialogue: 0,0:20:15.46,0:20:17.54,Subtitle,,0,0,0,,Although we didn't see each other often,
+Dialogue: 0,0:20:17.54,0:20:21.46,Subtitle,,0,0,0,,we would occasionally find some time\Nto meet up and have dinner together.
+Dialogue: 0,0:20:21.46,0:20:22.79,Subtitle,,0,0,0,,Cheers!
+Dialogue: 0,0:20:23.04,0:20:25.08,Subtitle,,0,0,0,,The days that the\Nthree of us spent together
+Dialogue: 0,0:20:25.08,0:20:27.17,Subtitle,,0,0,0,,were some of the most enjoyable\Nthat I can remember.
+Dialogue: 0,0:20:29.08,0:20:33.96,Subtitle,,0,0,0,,Helck, I'm going to be leaving the capital for\Nanother expedition the day after tomorrow.
+Dialogue: 0,0:20:34.79,0:20:37.75,Subtitle,,0,0,0,,The monsters that we've been assigned\Nto take care of are particularly troublesome,
+Dialogue: 0,0:20:37.75,0:20:40.33,Subtitle,,0,0,0,,so I might not be able\Nto come home for some time.
+Dialogue: 0,0:20:40.75,0:20:42.00,Subtitle,,0,0,0,,Oh, really?
+Dialogue: 0,0:20:42.00,0:20:43.58,Subtitle,,0,0,0,,Well, I'm not worried.
+Dialogue: 0,0:20:43.58,0:20:46.33,Subtitle,,0,0,0,,I know you're skilled enough\Nto bring down any monster.
+Dialogue: 0,0:20:46.33,0:20:47.92,Subtitle,,0,0,0,,Just be careful not to go overboard.
+Dialogue: 0,0:20:47.92,0:20:51.54,Subtitle,,0,0,0,,If anything happened, I wouldn't be\Nthe only person here to mourn your loss.
+Dialogue: 0,0:20:51.54,0:20:52.38,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:20:52.38,0:20:53.71,Subtitle,,0,0,0,,Oh, of course.
+Dialogue: 0,0:20:55.71,0:20:59.42,Subtitle,,0,0,0,,When I get back, I'd really love to have\Nsome of your home cooking.
+Dialogue: 0,0:20:59.42,0:21:00.46,Subtitle,,0,0,0,,Roger that!
+Dialogue: 0,0:21:00.46,0:21:03.13,Subtitle,,0,0,0,,Then you can count on one of my\Nspecial stamina-booster meals
+Dialogue: 0,0:21:03.13,0:21:04.79,Subtitle,,0,0,0,,to be waiting on the table for you!
+Dialogue: 0,0:21:05.42,0:21:07.08,Subtitle,,0,0,0,,Make sure you come back alive!
+Dialogue: 0,0:21:07.08,0:21:08.04,Subtitle,,0,0,0,,Right!
+Dialogue: 0,0:21:09.08,0:21:10.25,Subtitle,,0,0,0,,However...
+Dialogue: 0,0:21:10.25,0:21:13.54,Subtitle,,0,0,0,,we never got the chance to have\Nthat welcome back party,
+Dialogue: 0,0:21:13.54,0:21:15.17,Subtitle,,0,0,0,,because I couldn't stick around.
+Dialogue: 0,0:21:24.21,0:21:27.83,Song,,0,0,0,,Hey, what was that dream
+Dialogue: 0,0:21:27.83,0:21:31.04,Song,,0,0,0,,We used to fantasize about?
+Dialogue: 0,0:21:31.67,0:21:35.63,Song,,0,0,0,,A treasured memory even if it's small
+Dialogue: 0,0:21:35.63,0:21:39.04,Song,,0,0,0,,And covered in mud
+Dialogue: 0,0:21:39.79,0:21:43.50,Song,,0,0,0,,I was so clumsy that
+Dialogue: 0,0:21:43.50,0:21:46.58,Song,,0,0,0,,I couldn't even tell left from right
+Dialogue: 0,0:21:47.54,0:21:54.46,Song,,0,0,0,,When those clear eyes took my hand and saved me
+Dialogue: 0,0:21:55.54,0:21:59.42,Song,,0,0,0,,It's okay, it's okay, you kept saying
+Dialogue: 0,0:21:59.42,0:22:03.33,Song,,0,0,0,,As you hugged me tightly over and over
+Dialogue: 0,0:22:03.33,0:22:06.71,Song,,0,0,0,,This time I will be the one to grab ahold
+Dialogue: 0,0:22:06.71,0:22:09.92,Song,,0,0,0,,Of your warm hand
+Dialogue: 0,0:22:11.17,0:22:18.33,Song,,0,0,0,,I shouted your name and the world laughed
+Dialogue: 0,0:22:18.63,0:22:22.58,Song,,0,0,0,,Those words that hold us together
+Dialogue: 0,0:22:22.58,0:22:25.71,Song,,0,0,0,,Are the most precious of all
+Dialogue: 0,0:22:26.83,0:22:34.04,Song,,0,0,0,,If this is going to be our fate, then let's change it
+Dialogue: 0,0:22:34.29,0:22:38.29,Song,,0,0,0,,On the other side of the darkness
+Dialogue: 0,0:22:38.29,0:22:45.29,Song,,0,0,0,,We shall seize the light together
+Dialogue: 0,0:22:46.88,0:22:49.46,Subtitle,,0,0,0,,Next time: "The Mercenaries"
+Dialogue: 0,0:02:05.04,0:02:09.96,Caption,,0,0,0,,{\pos(640,424.8)}With Younger Brother in Tow
+Dialogue: 0,0:13:15.79,0:13:19.04,Caption-3,,0,0,0,,{\pos(640,266.4)}15 Years Later
+Dialogue: 0,0:02:14.17,0:02:16.83,Caption-2,,0,0,0,,{\pos(972.8,460.8)}{\an7}Helck (Age 8)
+Dialogue: 0,0:02:33.63,0:02:35.96,Caption-2,,0,0,0,,{\pos(972.8,489.6)}{\an7}Cless (Age 4)
+Dialogue: 0,0:14:16.08,0:14:19.58,Caption-2,,0,0,0,,{\pos(140.8,302.4)}{\an7}Cless (Age 18)
+Dialogue: 0,0:14:58.38,0:15:01.46,Caption-4,,0,0,0,,{\pos(140.8,489.6)}{\an7}Helck (Age 22)
+Dialogue: 0,0:15:12.83,0:15:15.79,Caption-5,,0,0,0,,{\pos(128,417.6)}{\an7}Daughter of Nobility
+Dialogue: 0,0:15:12.83,0:15:15.79,Caption-3,,0,0,0,,{\pos(128,468)}{\an7}Shalamy
+Dialogue: 0,0:22:46.00,0:22:50.79,Caption-6,,0,0,0,,{\pos(217.6,57.6)}{\an7}Next Episode
+Dialogue: 0,0:22:46.00,0:22:50.79,Caption-7,,0,0,0,,{\pos(857.6,547.2)}{\an7}The Mercenaries
+
