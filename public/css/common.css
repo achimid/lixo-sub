@@ -1,0 +1,31 @@
+.hidden {
+  display: none;
+}
+
+.text-rigth {
+  text-align: end;
+}  
+
+.float-right {
+  float: right;
+}
+
+.site-title a,
+.site-title a:visited {
+	color: #2d2d2d;
+}
+
+.site-title a:hover,
+.site-title a:focus,
+.site-title a:active {
+	opacity: 0.7;
+}
+
+.site-description {
+	color: #2d2d2d;
+	opacity: 0.7;
+}
+
+.cls-notify-not-logged {
+	display: none;
+}
